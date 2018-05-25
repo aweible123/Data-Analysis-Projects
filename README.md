@@ -13,7 +13,7 @@ _Please note: Data used in these projects is for demonstration purposes only._
 - ### Machine Learning
 
 	
-	_Tools: R Studio
+ _Tools: R Studio
 
 - ### Data Analysis and Visualisation
 	
